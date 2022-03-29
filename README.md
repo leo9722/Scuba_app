@@ -42,28 +42,28 @@ Enfin une fois tout ceci fait, compiler votre programme et faite le run sur votr
 
 Pour obtenir les résultats concernant une plongée, l’utilisateur devra renseigner les informations suivantes :
 
-• la table de plongée utilisée
-• le profil souhaité
-• la profondeur maximale de la plongée (PR)
-• la durée de la plongée avant remontée (DP)
-• si la profondeur ne fait pas partie des choix, prendre la profondeur en dessous, de même pour la durée
-
+        • la table de plongée utilisée
+        • le profil souhaité
+        • la profondeur maximale de la plongée (PR)
+        • la durée de la plongée avant remontée (DP)
+        • si la profondeur ne fait pas partie des choix, prendre la profondeur en dessous, de même pour la durée
+        
 Les résultats du mode calcul devront indiquer :
 
-• le volume d'air restant dans la bouteille pour chaque étape
-• un graphique qui montre les différents paliers à réaliser
-• le temps passé pour chaque étape
-• le moment où la pression de tarage et la pression ambiante est équivalente à la pression contenue dans la bouteille
-• la pression restante dans la bouteille à chaque étape
+        • le volume d'air restant dans la bouteille pour chaque étape
+        • un graphique qui montre les différents paliers à réaliser
+        • le temps passé pour chaque étape
+        • le moment où la pression de tarage et la pression ambiante est équivalente à la pression contenue dans la bouteille
+        • la pression restante dans la bouteille à chaque étape
 
 Il y aura la possibilité de réaliser des calculs pour une plongée successive, il faudra alors prendre en compte les coefficients d’azote.
 
 Les paramètres généraux d’une plongée sont les suivants :
 
-• respiration moyenne d’une personne : 20 l/minutes
-• vitesse de descente : 20 m/minutes
-• vitesse de remontée avant le premier palier : 10 m/minutes
-• vitesse de remontée entre les paliers : 6 m/minutes
+        • respiration moyenne d’une personne : 20 l/minutes
+        • vitesse de descente : 20 m/minutes
+        • vitesse de remontée avant le premier palier : 10 m/minutes
+        • vitesse de remontée entre les paliers : 6 m/minutes
 
 
 
@@ -71,14 +71,14 @@ Les paramètres généraux d’une plongée sont les suivants :
 
 Pour calculer le profil de plongée, l’utilisateur devra renseigner les informations suivantes :
 
-• la table de plongée utilisée
-• la profondeur maximale de la plongée (PR)
-• la durée de la plongée avant remontée (DP)
-• le temps au palier à 3 mètres
-• le temps au palier à 6 mètres
-• le temps au palier à 9 mètres
-• le temps au palier à 12 mètres
-• le temps au palier à 15 mètres
+        • la table de plongée utilisée
+        • la profondeur maximale de la plongée (PR)
+        • la durée de la plongée avant remontée (DP)
+        • le temps au palier à 3 mètres
+        • le temps au palier à 6 mètres
+        • le temps au palier à 9 mètres
+        • le temps au palier à 12 mètres
+        • le temps au palier à 15 mètres
 
 Le résultat du mode simulation devra indiquer un résultat vrai ou faux en fonction de la validité du calcul, ainsi que les valeurs incorrectes avec leur correction.
 
@@ -86,13 +86,13 @@ Gestion d’un profil
 
 L’application présentera une gestion de profil. L’utilisateur devra renseigner les informations suivantes dans la création d’un profil :
 
-• Tarage du détendeur 
-• Vitesse de descente 
-• Vitesse de remontée avant le premier palier
-• Vitesse de remontée entre les paliers 
-• Consommation au litres / minute
-• Nombres de bouteilles
-• Nom du profil 
-• Volume de la bouteille (choix entre 9,12, 15 ou 18 litres)
-• Pression de remplissage de la bouteille (par défaut 200 bars)
+        • Tarage du détendeur 
+        • Vitesse de descente 
+        • Vitesse de remontée avant le premier palier
+        • Vitesse de remontée entre les paliers 
+        • Consommation au litres / minute
+        • Nombres de bouteilles
+        • Nom du profil 
+        • Volume de la bouteille (choix entre 9,12, 15 ou 18 litres)
+        • Pression de remplissage de la bouteille (par défaut 200 bars)
 

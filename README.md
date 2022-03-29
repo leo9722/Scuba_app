@@ -10,7 +10,7 @@ L’application proposera 2 modes de calcul :
 
         • Le second mode, le mode simulation, proposera à l’adhérent de renseigner les champs à partir des calculs de l’adhérent, et le système indiquera le résultat!
         
-        ![alt text](https://github.com/leo9722/Scuba_app/blob/main/images/imgDiver.png)
+![alt text](https://github.com/leo9722/Scuba_app/blob/main/images/imgDiver.png)
         
 ## Installation
 

@@ -1,6 +1,6 @@
 # Scuba_app
 
-![alt text](https://github.com/leo9722/Scuba_app/blob/main/images/imgDiver.png)
+![alt text](https://github.com/leo9722/Scuba_app/blob/main/images/imgLittleDiver.png)
 
 Ce projet a pour objectif de concevoir une application autonome sur le thème de la plongée sous-marine.
 

@@ -1,5 +1,7 @@
 # Scuba_app
 
+![alt text](https://github.com/leo9722/Scuba_app/blob/main/images/imgDiver.png)
+
 Ce projet a pour objectif de concevoir une application autonome sur le thème de la plongée sous-marine.
 
 Une école de plongée souhaite obtenir une application permettant à ses adhérents de pouvoir calculer le profil d’une plongée sous-marine à partir de paramètres entrés.
@@ -10,7 +12,7 @@ L’application proposera 2 modes de calcul :
 
         • Le second mode, le mode simulation, proposera à l’adhérent de renseigner les champs à partir des calculs de l’adhérent, et le système indiquera le résultat!
         
-![alt text](https://github.com/leo9722/Scuba_app/blob/main/images/imgDiver.png)
+
         
 ## Installation
 
